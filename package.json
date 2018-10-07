@@ -1,0 +1,15 @@
+{
+  "name": "lambda-puppeteer",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@serverless-chrome/lambda": "^1.0.0-55",
+    "puppeteer-core": "^1.9.0"
+  }
+}
